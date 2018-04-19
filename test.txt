@@ -1,0 +1,2 @@
+https://gamedev.stackexchange.com/questions/72036/in-unity-how-do-i-dynamically-manipulate-parts-of-a-mesh
+https://answers.unity.com/questions/425637/how-to-move-vertices-from-a-mesh-to-a-specific-loc.html
